@@ -1,0 +1,4 @@
+Sample Command parameters
+
+cargo run Apple poem.txt
+cargo run Apple poem.txt > output.txt

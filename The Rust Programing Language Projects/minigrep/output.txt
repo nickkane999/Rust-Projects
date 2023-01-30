@@ -1,0 +1,4 @@
+case_sensitive: false
+Searching for Apple
+In file poem.txt
+;lkowe apple trkeg
