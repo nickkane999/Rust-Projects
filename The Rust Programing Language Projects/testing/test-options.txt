@@ -1,0 +1,7 @@
+Options to test file in cmd
+
+1. cargo test -- --test-threads=1
+2. cargo test -- --show-output
+3. cargo test function_name
+4. cargo test module_name
+5. cargo test -- --ignored
