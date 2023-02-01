@@ -1,3 +1,4 @@
+// Extra code outside of the book
 mod lib;
 use lib::Draw;
 

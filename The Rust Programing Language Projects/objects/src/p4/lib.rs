@@ -1,3 +1,5 @@
+// Extra code outside of the book
+
 use std::any::Any;
 use core::any::TypeId;
 
