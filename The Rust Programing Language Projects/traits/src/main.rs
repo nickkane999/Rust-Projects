@@ -5,9 +5,9 @@ mod p4;
 mod p5;
 
 fn main() {
-    p1::run();
+    //p1::run();
     p2::run();
-    p3::run();
-    p4::run();
-    p5::run();
+    //p3::run();
+    //p4::run();
+    //p5::run();
 }
